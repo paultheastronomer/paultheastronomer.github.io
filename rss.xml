@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Website of Paul Strøm</title>
+        <link>https://paultheastronomer.github.io</link>
+        <description>This is my website, I hope you like it</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://paultheastronomer.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>My trip to the UK with WAKE</title>
+            <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+            <link>https://paultheastronomer.github.io/posts/wake-trip/</link>
+            <guid>https://paultheastronomer.github.io/posts/wake-trip/</guid>
+            <description>&lt;p&gt;I went to the UK and had a great time.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Italy is a great country</title>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+            <link>https://paultheastronomer.github.io/posts/italy-trip/</link>
+            <guid>https://paultheastronomer.github.io/posts/italy-trip/</guid>
+            <description>&lt;p&gt;I went to the Italy and had a great time.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>

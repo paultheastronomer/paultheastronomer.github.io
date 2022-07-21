@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://paultheastronomer.github.io/sitemap.xml
